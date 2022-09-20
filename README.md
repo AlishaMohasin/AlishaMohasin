@@ -77,7 +77,7 @@
 
 - 👨‍💻 All of my projects are available at [https://AlishaMohasin.github.io/](https://AlishaMohasin.github.io)
 
-- 💬 Ask me about **React,Javascript,HTML,CSS**
+- 💬 Ask me about **React, Javascript, HTML, CSS**
 
 - 📫 How to reach me **alishamohasin859@gmail.com**
 
@@ -95,10 +95,6 @@
 
 
 
-<!-- <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlishaMohasin&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="AlishaMohasin" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaMohasin&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="rkshristi123" height="139" />
-</p> -->
 
  
   <h2><i>My GitHub Stats</i></h2>
