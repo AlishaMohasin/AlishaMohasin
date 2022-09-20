@@ -4,7 +4,7 @@
 
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> I am Alisha mohasin<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlishaMohasin-byte" alt="AlishaMohasin-byte" /> </p>
+<img src="https://komarev.com/ghpvc/?username=AlishaMohasin-byte" alt="AlishaMohasin-byte" /> 
 
 
 <h2 align="center">A passionate full stack  web developer</h2>
