@@ -74,7 +74,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as a software developer 
 
 - 👨‍💻 All of my projects are available at [https://AlishaMohasin.github.io/](https://AlishaMohasin.github.io)
 
